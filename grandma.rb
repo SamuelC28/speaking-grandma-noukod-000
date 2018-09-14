@@ -1,6 +1,6 @@
 def speak_to_grandma("I LOVE YOU GRANDMA!")
   if "I LOVE YOU GRANDMA!".uppercase?? "I LOVE YOU TOO PUMPKIN!":"HUH?! SPEAK UP, SONNY!"
-    
+
 end
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
